@@ -42,4 +42,25 @@ This project provides a solid starting point, and there are several avenues for 
 ### Impact of Events:
 * Analyze the influence of special events or weather conditions on Divvy usage.
 
+## Tools and Libraries
+The project uses the following tools and libraries:
+
+Python: The primary programming language used for data analysis and visualization.
+
+Pandas: A library for data manipulation and analysis.
+
+GeoPandas: A library for working with geospatial data.
+
+Folium: A library for creating interactive maps.
+
+Matplotlib: A library for creating static, interactive, and animated visualizations.
+
+Seaborn: A library for making statistical graphics.
+
+Scikit-learn: A library for machine learning.
+
+Plotly: A library for creating interactive plots and dashboards.
+
+Dash: A Python framework for building web applications.
+
 ## Let's collaborate to enhance this project and create a useful resource for understanding urban mobility in Chicago.
